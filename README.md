@@ -14,3 +14,12 @@ powered by **Google Gemini API** for reasoning and **SerpAPI** for real-time web
 ```bash
 git clone https://github.com/ShrutiParate/Ai_Agent_tool_experiment.git
 cd Ai_Agent_tool_experiment
+
+
+# .env (create this file in project root)
+GOOGLE_API_KEY=your_google_gemini_api_key
+SERPAPI_API_KEY=your_serpapi_key
+
+
+
+
