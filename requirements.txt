@@ -1,5 +1,7 @@
-python-dotenv
+streamlit
 langchain
 langchain-community
-langchain-google-genai
-google-search-results
+langchain-groq
+langchain-huggingface
+chromadb
+sentence-transformers
